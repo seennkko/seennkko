@@ -2,6 +2,7 @@
 > ```javascript
 > Name   = "Senko"
 > Age    = 19
+>
 > Skills = [
 >  "Automation",
 >  "Web",
