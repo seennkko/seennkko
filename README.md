@@ -1,5 +1,22 @@
-<h3 align="center">automation developer with an inconsistent work schedule x3</h3>
-<h5 align="center">discord : @bleedbin (890998985790214247) </h5>
+<p align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/890998985790214247)](https://discord.com/users/890998985790214247)
+```python
+Kotaro = 'Dev'
+is-online? = false
+print(f'Follow {Kotaro} on Github')
+```
+```python
+       OS  :  Ubuntu 20.04.1 LTS
+   Python  :  python 3.9.13
+Languages  :  Python, Java, Js, Batch, C, Lua, HTML/CSS
+  Discord  :  discord.gg/nbi
+   Server  :  None
+```
+
+```json
+Be humble Always.
+```
+</p>
 <p align="center">
   <img src="senko.gif" alt="senko gif" width="200" />
   <br>
