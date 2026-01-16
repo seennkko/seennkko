@@ -1,4 +1,7 @@
 
+> ```json
+> i <3 macy
+> ```
 > ```javascript
 > Name   = "Senko"
 > Age    = 19
@@ -17,9 +20,6 @@
 > Languages    = ['PY', 'JS', 'CPP', 'GO']
 > IntgDevEnv   = "VScode"
 > Browser      = ['Brave', 'Cyberfox']
-> ```
-> ```json
-> gah
 > ```
 
 <p align="center">
