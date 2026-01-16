@@ -1,4 +1,4 @@
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/890998985790214247?idleMessage=not%20doing%20anything&theme=dark&showDisplayName=true&bg=0)](https://discord.com/users/890998985790214247)
 > ```javascript
 > Name   = "Senko"
 > Age    = 19
