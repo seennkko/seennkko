@@ -1,16 +1,15 @@
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/890998985790214247)](https://discord.com/users/890998985790214247)
-```python
-w
-a
-```
-```python
-fwe
-```
-
-```json
-zx
-```
+> ```python
+> w
+> a
+> ```
+> ```python
+> fwe
+> ```
+> 
+> ```json
+> zx
+> ```
 
 <p align="center">
   <img src="senko.gif" alt="senko gif" width="200" />
