@@ -12,7 +12,7 @@
 > ] // Ranked top to bottom from skill. (Top most skilled, Bottom least skilled)
 > Focus  = "Automation"
 > ```
-> ```python
+> ```html
 > OperatingSys : Windows 11, Ubuntu (DualBoot)
 > Languages    : PY, JS, CPP, GO
 > IntgDevEnv   : VScode
