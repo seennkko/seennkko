@@ -1,5 +1,5 @@
 
-> ```json
+> ```javascript
 > Name   : Senko
 > Age    : 19
 > Skills : [
