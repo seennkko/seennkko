@@ -1,15 +1,15 @@
 
 > ```javascript
-> Name   : Senko
-> Age    : 19
-> Skills : [
->  Automation
->  Web
->  Deobfuscation
->  Reverse Engineering
->  Pentesting 
+> Name   = "Senko"
+> Age    = 19
+> Skills = [
+>  "Automation",
+>  "Web",
+>  "Deobfuscation",
+>  "Reverse Engineering",
+>  "Pentesting" 
 > ] // Ranked top to bottom from skill. (Top most skilled, Bottom least skilled)
-> Focus  : Automation
+> Focus  = "Automation"
 > ```
 > ```python
 > OperatingSys : Windows 11, Ubuntu (DualBoot)
