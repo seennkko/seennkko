@@ -12,11 +12,11 @@
 > ] // Ranked top to bottom from skill. (Top most skilled, Bottom least skilled)
 > Focus  = "Automation"
 > ```
-> ```html
-> OperatingSys : Windows 11, Ubuntu (DualBoot)
-> Languages    : PY, JS, CPP, GO
-> IntgDevEnv   : VScode
-> Browser      : Brave, Cyberfox
+> ```javascript
+> OperatingSys = ['Windows 11', 'Ubuntu'] // (DualBoot)
+> Languages    = ['PY', 'JS', 'CPP', 'GO']
+> IntgDevEnv   = "VScode"
+> Browser      = ['Brave', 'Cyberfox']
 > ```
 > ```json
 > zx
