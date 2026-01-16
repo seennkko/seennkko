@@ -1,9 +1,10 @@
 
-> ```python
-> w
-> a
+> ```ansi
+> [0;34m   Name [30m: [1;33mSenko
+> [0;34m    Age [30m: [1;33m19
+> [0;34m Status [30m: [1;33mTaken
 > ```
-> ```python
+> ```ansi
 > fwe
 > ```
 > 
