@@ -7,6 +7,7 @@
 > Age    = 19
 >
 > Skills = [
+>  "Roblox Exploits",
 >  "Automation",
 >  "Web",
 >  "Deobfuscation",
@@ -17,7 +18,7 @@
 > ```
 > ```javascript
 > OperatingSys = ['Windows 11', 'Ubuntu'] // (DualBoot)
-> Languages    = ['PY', 'JS', 'CPP', 'GO']
+> Languages    = ['LUA', 'PY', 'JS', 'CPP', 'GO']
 > IntgDevEnv   = "VScode"
 > Browser      = ['Brave', 'Cyberfox']
 > ```
