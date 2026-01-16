@@ -1,8 +1,15 @@
-<pre align="center">
-<span style="color:#4aa3ff">Name</span>   : <span style="color:#ffd866">Senko</span>
-<span style="color:#4aa3ff">Age</span>    : <span style="color:#ffd866">19</span>
-<span style="color:#4aa3ff">Status</span> : <span style="color:#ffd866">Taken</span>
-</pre>
+
+> ```javascript
+> w
+> a
+> ```
+> ```python
+> fwe
+> ```
+> 
+> ```json
+> zx
+> ```
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
