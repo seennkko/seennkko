@@ -1,4 +1,4 @@
-### automation developer with an inconsistent work schedule
+<h3 align="center">automation developer with an inconsistent work schedule x3</h3>
 <p align="center">
   <img src="senko.gif" alt="senko gif" width="200" />
 </p>
