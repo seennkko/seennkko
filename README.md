@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/890998985790214247?idleMessage=not%20doing%20anything&theme=dark&showDisplayName=true&bg=0)](https://discord.com/users/890998985790214247)
+<p align="center"> <a href="https://discord.com/users/890998985790214247"><img src="https://lanyard.cnrad.dev/api/890998985790214247?idleMessage=not%20doing%20anything&theme=dark&showDisplayName=true&bg=0" /></a> </p>
 > ```javascript
 > Name   = "Senko"
 > Age    = 19
