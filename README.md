@@ -1,6 +1,6 @@
 
 > ```json
-> i <3 macy
+> i <3 heart
 > ```
 > ```javascript
 > Name   = "Senko"
