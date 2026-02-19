@@ -8,9 +8,9 @@
 >
 > Skills = [
 >  "Roblox Exploits",
->  "Automation",
->  "Web",
+>  "Discord Automation",
 >  "Deobfuscation",
+>  "Web"
 >  "Reverse Engineering",
 >  "Pentesting" 
 > ] // Ranked top to bottom. (Top most skilled, Bottom least skilled)
@@ -20,7 +20,7 @@
 > OperatingSys = ['Windows 11', 'Ubuntu'] // (DualBoot)
 > Languages    = ['LUA', 'PY', 'JS', 'CPP', 'GO']
 > IntgDevEnv   = "VScode"
-> Browser      = ['Brave', 'Cyberfox']
+> Browser      = ['Librewolf', 'Cyberfox']
 > ```
 
 <p align="center">
