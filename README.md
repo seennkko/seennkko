@@ -1,6 +1,6 @@
 
 > ```json
-> ???
+> a2VrIGdvdGNodQ
 > ```
 > ```javascript
 > Name   = "Senko"
