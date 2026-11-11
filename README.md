@@ -7,11 +7,10 @@
 > Age    = 20
 >
 > Skills = [
->  "Roblox Exploitation",
->  "General Automation", // Including various endpoints such as REST
+>  "General Automation",
 >  "Reverse Engineering",
->  "Web",
->  "Pentesting" 
+>  "Web Development",
+>  "Penetration Testing" 
 > ] // Ranked top to bottom. (Top most skilled, Bottom least skilled)
 > Focus  = "Automation"
 > ```
